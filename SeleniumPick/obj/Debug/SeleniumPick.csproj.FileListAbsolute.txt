@@ -1,0 +1,12 @@
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\SeleniumPick.exe.config
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\SeleniumPick.exe
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\SeleniumPick.pdb
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\WebDriver.dll
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\WebDriver.Support.dll
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\WebDriver.xml
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\bin\Debug\WebDriver.Support.xml
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\obj\Debug\SeleniumPick.csprojAssemblyReference.cache
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\obj\Debug\SeleniumPick.csproj.CoreCompileInputs.cache
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\obj\Debug\SeleniumPick.csproj.CopyComplete
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\obj\Debug\SeleniumPick.exe
+D:\VS_WorkSapce\SeleniumPick\SeleniumPick\obj\Debug\SeleniumPick.pdb
