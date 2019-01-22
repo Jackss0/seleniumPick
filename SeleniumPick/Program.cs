@@ -57,6 +57,7 @@ namespace SeleniumPick
             var txtSearch = _driver.FindElement(By.Id("searchInput"));
             Console.WriteLine("buscar algo");
             txtSearch.Clear();
+
             txtSearch.SendKeys("Peru");
 
             var btnSearch = _driver.FindElement(By.Id("searchButton"));
