@@ -45,7 +45,7 @@ namespace SeleniumPick
 
 
             //Screenshot ss = ((ITakesScreenshot)_driver).GetScreenshot();
-            //ss.SaveAsFile("D:\\imgs\\xddx2.png", ScreenshotImageFormat.Png);
+            //ss.SaveAsFile("D:\\imgs\\Invoker.png", ScreenshotImageFormat.Png);
 
             //_driver.Quit();
 
